@@ -1,0 +1,15 @@
+[project]
+name = "pose2action"
+version = "0.1.0"
+dependencies = [
+  "torch",
+  "torchvision",
+  "torchaudio",
+  "mediapipe",
+  "opencv-python",
+  "pandas",
+  "numpy",
+  "scikit-learn",
+  "matplotlib",
+  "typer"
+]

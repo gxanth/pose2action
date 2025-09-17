@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#322F07",
+        "titleBar.activeBackground": "#464109",
+        "titleBar.activeForeground": "#FCFAE8"
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingTypeStubs": "none"
+    }
+}
+

@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+pandas
+pyarrow
+matplotlib
+scikit-learn
+torch
+torchvision
+torchaudio
+typer

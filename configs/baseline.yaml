@@ -1,0 +1,14 @@
+# Baseline training config
+dataset:
+  sequence_length: 32
+  num_joints: 33
+  input_dim: 66
+  classes: [sit, stand, walk, raise-arms]
+
+training:
+  batch_size: 16
+  epochs: 20
+  lr: 0.001
+  optimizer: adam
+  scheduler: cosine
+  seed: 42

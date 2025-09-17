@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv
+data/raw_videos/
+data/keypoints/
+data/splits/
+experiments/
+reports/
