@@ -1,0 +1,6 @@
+[submodule "external/external/alphapose"]
+	path = external/external/alphapose
+	url = https://github.com/MVIG-SJTU/AlphaPose
+[submodule "external/alphapose"]
+	path = external/alphapose
+	url = https://github.com/MVIG-SJTU/AlphaPose
